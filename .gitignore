@@ -4,3 +4,9 @@ dist/
 build/
 target/
 *.log
+.agents/
+.claude/
+.factory/
+.kiro/
+.qoder/
+skills-lock.json
